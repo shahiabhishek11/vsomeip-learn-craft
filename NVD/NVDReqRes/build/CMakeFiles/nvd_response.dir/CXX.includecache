@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/NewVehicleData.hpp
+
+../include/sample-ids.hpp
+
+../include/serdes.hpp
+stdint.h
+-
+vector
+-
+iostream
+-
+string.h
+-
+
+/home/sdv-2534/Documents/NVD/NVDReqRes/src/response-sample.cpp
+csignal
+-
+chrono
+-
+condition_variable
+-
+iomanip
+-
+iostream
+-
+sstream
+-
+thread
+-
+vsomeip/vsomeip.hpp
+-
+sample-ids.hpp
+/home/sdv-2534/Documents/NVD/NVDReqRes/src/sample-ids.hpp
+serdes.hpp
+/home/sdv-2534/Documents/NVD/NVDReqRes/src/serdes.hpp
+NewVehicleData.hpp
+/home/sdv-2534/Documents/NVD/NVDReqRes/src/NewVehicleData.hpp
+

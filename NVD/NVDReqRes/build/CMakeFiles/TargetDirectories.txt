@@ -1,0 +1,4 @@
+/home/sdv-2534/Documents/NVD/NVDReqRes/build/CMakeFiles/rebuild_cache.dir
+/home/sdv-2534/Documents/NVD/NVDReqRes/build/CMakeFiles/edit_cache.dir
+/home/sdv-2534/Documents/NVD/NVDReqRes/build/CMakeFiles/nvd_request.dir
+/home/sdv-2534/Documents/NVD/NVDReqRes/build/CMakeFiles/nvd_response.dir
