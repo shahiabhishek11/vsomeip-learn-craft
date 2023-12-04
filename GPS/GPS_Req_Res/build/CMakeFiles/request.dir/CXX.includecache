@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sdv-2534/Documents/GPS/GPS_Req_Res/include/GPS_sample_ids.hpp
+
+/home/sdv-2534/Documents/GPS/GPS_Req_Res/src/GPS_Request_Sample.cpp
+csignal
+-
+chrono
+-
+condition_variable
+-
+iostream
+-
+sstream
+-
+thread
+-
+vsomeip/vsomeip.hpp
+-
+../include/GPS_sample_ids.hpp
+/home/sdv-2534/Documents/GPS/GPS_Req_Res/include/GPS_sample_ids.hpp
+

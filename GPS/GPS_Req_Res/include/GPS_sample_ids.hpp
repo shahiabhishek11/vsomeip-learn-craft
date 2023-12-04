@@ -1,0 +1,6 @@
+
+#define SERVICE_ID 0x0001
+#define INSTANCE_ID 0x0002
+#define METHOD_ID 0x0003
+
+

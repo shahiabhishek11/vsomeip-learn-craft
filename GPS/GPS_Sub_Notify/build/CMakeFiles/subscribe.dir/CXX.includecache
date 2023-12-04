@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/GPS_Data.hpp
+
+../include/sample-ids.hpp
+
+../include/serdes.hpp
+stdint.h
+-
+vector
+-
+iostream
+-
+string.h
+-
+
+/home/sdv-2534/Documents/GPS/GPS_Sub_Notify/src/GPS_Subscribe.cpp
+csignal
+-
+iostream
+-
+vsomeip/vsomeip.hpp
+-
+chrono
+-
+condition_variable
+-
+sstream
+-
+stdint.h
+-
+serdes.hpp
+/home/sdv-2534/Documents/GPS/GPS_Sub_Notify/src/serdes.hpp
+sample-ids.hpp
+/home/sdv-2534/Documents/GPS/GPS_Sub_Notify/src/sample-ids.hpp
+GPS_Data.hpp
+/home/sdv-2534/Documents/GPS/GPS_Sub_Notify/src/GPS_Data.hpp
+
