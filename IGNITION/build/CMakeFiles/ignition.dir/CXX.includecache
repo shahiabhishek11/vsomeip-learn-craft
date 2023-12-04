@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/sample-ids.hpp
+
+/home/sdv-2534/Documents/VSOMEIP_CODES/IGNITION/src/notify-ignition.cpp
+csignal
+-
+stdio.h
+-
+string.h
+-
+chrono
+-
+condition_variable
+-
+iomanip
+-
+iostream
+-
+sstream
+-
+thread
+-
+mutex
+-
+vsomeip/vsomeip.hpp
+-
+sample-ids.hpp
+/home/sdv-2534/Documents/VSOMEIP_CODES/IGNITION/src/sample-ids.hpp
+
